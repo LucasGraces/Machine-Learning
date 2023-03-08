@@ -1,2 +1,2 @@
 # Machine-Learning
-Es el aprendizaje automático de los precios de los diamante (esta echo en Python).
+Es el aprendizaje automático del valor de los diamantes (esta echo en Python).
